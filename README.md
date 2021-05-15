@@ -12,4 +12,4 @@ A website to help with optimizing the use of search engines, reputation manageme
 
 ### Screenshot of website
 
-![Horiseon](/https://github.com/msvillarreal21/Challenge1/blob/main/Develop/assets/images/Challenge%20screenshot.png?raw=true)
+![Horiseon](screenshot.png)
