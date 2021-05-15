@@ -12,4 +12,4 @@ A website to help with optimizing the use of search engines, reputation manageme
 
 ### Screenshot of website
 
-![Horieson](urban-octo-telegram/Develop/assets/images/Challenge screenshot.png)
+![Horiseon](/Users/mariasalomevillarreal/Desktop/challenge1/urban-octo-telegram/Develop/assets/images/Challenge screenshot.png)
