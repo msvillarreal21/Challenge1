@@ -8,7 +8,7 @@ A website to help with optimizing the use of search engines, reputation manageme
 * CSS
 
 ## Website
-https://msvillarreal21.github.io/Challenge1/
+https://msvillarreal21.github.io/Challenge1/Develop/
 
 
 ### Screenshot of website
