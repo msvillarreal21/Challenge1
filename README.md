@@ -11,5 +11,5 @@ A website to help with optimizing the use of search engines, reputation manageme
 
 
 ### Screenshot of website
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](urban-octo-telegram/Develop/assets/images/Challenge screenshot.png)
+
+![Horieson](urban-octo-telegram/Develop/assets/images/Challenge screenshot.png)
